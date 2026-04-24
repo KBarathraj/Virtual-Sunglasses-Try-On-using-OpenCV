@@ -76,15 +76,15 @@ plt.axis('off')
 ---
 
 ## Output
-<img width="444" height="555" alt="image" src="https://github.com/user-attachments/assets/eca38fe0-9848-4d7e-8799-f1aa62b8d288" />
+<img width="1657" height="294" alt="image" src="https://github.com/user-attachments/assets/0dbaad02-cdec-4d95-aee2-c6c0f44e1655" />
 
 <br>
-<img width="1450" height="157" alt="image" src="https://github.com/user-attachments/assets/80060d81-e475-4b6d-9882-dbf8af6142a7" />
+<img width="387" height="551" alt="image" src="https://github.com/user-attachments/assets/7636b5a9-c476-4860-8876-03517848e175" />
 
 <br>
 The final output is an image where the sunglasses are placed over the eye region of the face.
 <br>
-<img width="1452" height="928" alt="image" src="https://github.com/user-attachments/assets/4f42c1b2-d84a-4174-9d41-9a4de88bfced" />
+<img width="1627" height="1040" alt="image" src="https://github.com/user-attachments/assets/e0d9446d-fb0f-4e36-bd6d-340aee629829" />
 
 
 
